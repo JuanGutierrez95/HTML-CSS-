@@ -1,0 +1,8 @@
+button::before{
+    content: "Pasa por acá";
+    display:none;
+   
+}
+button::after{
+    content: "¡Hecho!";
+}
